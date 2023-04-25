@@ -4,8 +4,8 @@
   "description": "",
   "main": "recipe.js",
   "scripts": {
-    "test": "echo \"Fake Tests\" && exit 0"
-    },
+    "test": "echo \"Fake Tests\" && exit 1"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
